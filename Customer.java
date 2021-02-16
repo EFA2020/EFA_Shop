@@ -9,7 +9,7 @@ public class Customer extends Person
     }
     public Customer()
     {
-        this(156 , "EFA" , "ESMAEEL" , "1212" , "mehdi@wee.com" , "Tehrani" , "00000000");
+        this(15524 , "EFA" , "ESMAEEL" , "123456" , "esi@alamdari.com" , "Alamdar" , "00000000");
     }
 //this is a method to add stuff to customer's cart
     @Override
