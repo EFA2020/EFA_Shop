@@ -1,7 +1,7 @@
 import java.util.Iterator;
 import java.util.Map;
 //this the selesman which is inherited from the Person class 
-//Created by ESMAAEEL FAAKHERI ALAMDAARI
+//Created by ESMAAEL FAKHERI ALAMDARI
 public class SelesMan extends Person {
     private static final long serialVersionUID = 1L;
     private String ComponyName;
@@ -100,5 +100,5 @@ public class SelesMan extends Person {
         }
 }
 }
-//Created by ESMAAEEL FAAKHERI ALAMDAARI
+//Created by ESMAEL FAKHERI ALAMDARI
 
