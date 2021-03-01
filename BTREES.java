@@ -2,7 +2,7 @@ import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
-//Created by ESMAAEEL FAAKHERI ALAMDAARI
+//Created by ESMAEL FAKHERI ALAMDARI
 
 public class BTREES<Key extends Comparable<Key>, Value> implements Serializable  {
     // max children per B-tree node = M-1     (M>2)
@@ -60,7 +60,7 @@ public class BTREES<Key extends Comparable<Key>, Value> implements Serializable 
         }
         return null;
     }
-//Created by ESMAAEEL FAAKHERI ALAMDAARI
+//Created by ESMAEL FAKHERI ALAMDARI
 
     public void put(Key key, Value val) {
         if (key == null) throw new IllegalArgumentException("argument key to put() is null");
@@ -272,4 +272,4 @@ public class BTREES<Key extends Comparable<Key>, Value> implements Serializable 
         return p;
     }
 }
-//Created by ESMAAEEL FAAKHERI ALAMDAARI
+//Created by ESMAEL FAKHERI ALAMDARI
